@@ -1,0 +1,32 @@
+{
+  "name": "musiclovers",
+  "version": "1.0.0",
+  "description": "A dating app made for people that enjoy music",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sybrenmolenaar/bloktech.git"
+  },
+  "keywords": [
+    "dating",
+    "js",
+    "html",
+    "css",
+    "mongodb"
+  ],
+  "author": "Sybren Molenaar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sybrenmolenaar/bloktech/issues"
+  },
+  "homepage": "https://github.com/sybrenmolenaar/bloktech#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
